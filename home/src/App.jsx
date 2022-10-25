@@ -4,6 +4,7 @@ import Header from './Header';
 import Footer from './Footer';
 import HomeContent from './HomeContent';
 
+import 'remixicon/fonts/remixicon.css';
 import "./index.scss";
 
 const App = () => (
